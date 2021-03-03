@@ -1,0 +1,71 @@
+
+.main-header {
+	background: url(../img/background.jpg);
+	background-size: cover;
+	background-position: center;
+	min-height: 600px;
+	color: #fff;
+  }
+  
+  .main-header .showcase {
+	padding-top: 100px;
+  }
+  
+  .active-link {
+	color: #d847f1;
+	font-weight: bold;
+  }  
+
+  .section-developers {
+	  position: relative; 
+	  background: url(img/code.jpg);
+	  background-size: cover;
+	  background-position: center;
+	  border-top: #333 solid 5px;
+	  border-bottom: #333 solid 5px;
+	  min-height: 180px;
+  }
+
+  .primary-overlay{
+	  background: rgba(112, 81, 176, 0.5);
+	  position: absolute;
+	  top: 0;
+	  left: 0;
+	  height: 100%;
+	  width: 100%;
+  }
+
+  .section-podcast{
+	  position: relative;
+	  background: url(img/circuit.jpg);
+	  min-height: 160px;
+	  background-position: center;
+	  background-size: cover;
+	  border-top: #333 solid 5px;
+	  border-bottom: #333 solid 5px;
+  }
+
+  .section-podcast .primary-overlay{
+	  background: rgba(112, 81, 176, 0.8);
+  }
+
+  .main-header-inner {
+	  background: url(img/background.jpg);
+	  min-height: 450px;
+	  background-position: center;
+	  background-size: cover;
+	  color: #fff;
+  }
+
+  .tabs .indicator{
+	  background: #6a1b9a;
+  }
+
+  .main-header-inner .showcase {
+	  padding-top: 50px;
+  }
+
+  .btn-extend {
+	  display: block;
+	  width: 100%;
+  }
